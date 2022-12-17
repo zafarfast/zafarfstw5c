@@ -1,5 +1,7 @@
 # Work Day Scheudler
 
+A simple application to manage your daily appointments during 9am to 5pm work hours.
+
 ## Website link
 https://zafarfast.github.io/zafarfstw5c/
 
